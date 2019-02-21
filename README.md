@@ -1,4 +1,4 @@
-# PyTorch로 딥러닝 시작히기
+# [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)
 
 여기는 [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)의 코드 레파지토리입니다. 원서인 [Deep Learning with PyTorch](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch?utm_source=github&utm_medium=repository&utm_campaign=9781788624336)는 [Packt](https://www.packtpub.com/?utm_source=github)에서 출간되었고, [에이콘](http://acornpub.co.kr)에서 번역되었습니다. 이 레파지토리는 [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch) 실습에 필요한 모든 파일을 포함합니다.
 
@@ -39,4 +39,4 @@ optimize(learning_rate) # 오차를 최소화하도록 w, b를 조정
 * [Deep Learning with TensorFlow - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-tensorflow-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788831109)
 
 ### 제안과 피디백
-제안 및 피드백: [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) 
+제안 및 피드백: [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform)

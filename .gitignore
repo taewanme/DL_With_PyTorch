@@ -7,6 +7,7 @@
 */.ipynb_checkpoints/*
 
 Chapter03/dogsandcats/**/*
+Chapter05/**/*
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/

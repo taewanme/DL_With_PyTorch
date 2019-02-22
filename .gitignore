@@ -1,0 +1,15 @@
+
+# Created by https://www.gitignore.io/api/jupyternotebook
+# Edit at https://www.gitignore.io/?templates=jupyternotebook
+
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+Chapter03/dogsandcats/**/*
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
+
+# End of https://www.gitignore.io/api/jupyternotebook

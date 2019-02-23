@@ -2,6 +2,10 @@
 
 여기는 [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)의 코드 레파지토리입니다. 원서인 [Deep Learning with PyTorch](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch?utm_source=github&utm_medium=repository&utm_campaign=9781788624336)는 [Packt](https://www.packtpub.com/?utm_source=github)에서 출간되었고, [에이콘](http://acornpub.co.kr)에서 번역되었습니다. 이 레파지토리는 [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch) 실습에 필요한 모든 파일을 포함합니다.
 
+[PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)의 보강 문서인 [](http://taewan.kim/ml/dl_pytorch/)와 이 레파지토리를 함께 참고하시기 바랍니다.
+
+![](./images/taewan.jpg)
+
 ## [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)에 대하여...
 
 딥러닝를 통해서 구글 보이스 (Google Voice), 시리 (Siri), 알렉사 (Alexa)와 같은 세계에서 가장 지능적인 시스템은 더욱 강력해지고 있습니다. GPU, PyTorch, Keras, Tensorflow, CNTK 등의 소프트웨어 프레임워크와 빅데이터 그리고 강력한 하드웨어의 발전하면서 Text, Vision 및 고급 분석 분야의 여러 문제의 솔루션을보다 쉽게 구현할 수있게되었습니다.

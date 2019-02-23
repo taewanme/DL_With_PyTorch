@@ -4,7 +4,7 @@
 
 [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)의 보강 문서인 [](http://taewan.kim/ml/dl_pytorch/)와 이 레파지토리를 함께 참고하시기 바랍니다.
 
-![](./images/taewan.jpg)
+<a href="http://taewan.kim/ml/dl_pytorch/" target="_blank">![](./images/taewan.jpg)</a>
 
 ## [PyTorch로 딥러닝 시작하기](http://acornpub.co.kr/book/deep-learning-pytorch)에 대하여...
 
